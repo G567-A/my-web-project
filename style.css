@@ -8,9 +8,9 @@ main {
   padding: 0 15px;
 }
 :root {
-  --primary-color: #001f66;
-  --text-color: #001f66;
-  --bg-color: #f8fafc;
+  --primary-color: #000000;
+  --text-color: #000000;
+  --bg-color: #ffff00;
 }
 
 
